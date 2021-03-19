@@ -1,6 +1,6 @@
-package com.rohanprabhu.confinity.demo
+package money.jupiter.confinity.demo
 
-import com.rohanprabhu.confinity.models.ConfinedInvocable
+import money.jupiter.confinity.models.ConfinedInvocable
 import java.io.Serializable
 
 data class ExamplePayload(

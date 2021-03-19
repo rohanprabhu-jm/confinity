@@ -1,4 +1,4 @@
-package com.rohanprabhu.confinity.machine
+package money.jupiter.confinity.machine
 
 import net.lingala.zip4j.ZipFile
 import net.lingala.zip4j.model.ZipParameters

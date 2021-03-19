@@ -1,6 +1,6 @@
-import com.rohanprabhu.confinity.Confinity
-import com.rohanprabhu.confinity.demo.Example
-import com.rohanprabhu.confinity.demo.ExamplePayload
+import money.jupiter.confinity.Confinity
+import money.jupiter.confinity.demo.Example
+import money.jupiter.confinity.demo.ExamplePayload
 import kotlin.math.pow
 
 fun main() {

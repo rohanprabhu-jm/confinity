@@ -1,10 +1,10 @@
-package com.rohanprabhu.confinity
+package money.jupiter.confinity
 
-import com.rohanprabhu.confinity.machine.ImageBuilder
-import com.rohanprabhu.confinity.machine.ContainerRunner
-import com.rohanprabhu.confinity.machine.DockerOps
-import com.rohanprabhu.confinity.machine.JarBundler
-import com.rohanprabhu.confinity.models.ConfinedInvocable
+import money.jupiter.confinity.machine.ImageBuilder
+import money.jupiter.confinity.machine.ContainerRunner
+import money.jupiter.confinity.machine.DockerOps
+import money.jupiter.confinity.machine.JarBundler
+import money.jupiter.confinity.models.ConfinedInvocable
 import org.reflections.Reflections
 import org.reflections.scanners.ResourcesScanner
 import org.reflections.util.ClasspathHelper

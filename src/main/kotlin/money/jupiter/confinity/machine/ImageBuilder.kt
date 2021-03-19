@@ -1,4 +1,4 @@
-package com.rohanprabhu.confinity.machine
+package money.jupiter.confinity.machine
 
 import com.google.cloud.tools.jib.api.Containerizer
 import com.google.cloud.tools.jib.api.DockerDaemonImage
@@ -19,7 +19,7 @@ class ImageBuilder {
                 vendoredPaths,
                 AbsoluteUnixPath.get("/libs")
             )
-            .setEntrypoint("java", "-cp", "/libs/*:/confinity.jar", "com.rohanprabhu.confinity.ConfinityPackager")
+            .setEntrypoint("java", "-cp", "/libs/*:/confinity.jar", "money.jupiter.confinity.ConfinityPackager")
             .containerize(
                 Containerizer.to(DockerDaemonImage.named(imageName))
             )

@@ -6,7 +6,7 @@ plugins {
     application
 }
 
-group = "com.rohanprabhu"
+group = "money.jupiter"
 version = "1.0-SNAPSHOT"
 
 repositories {

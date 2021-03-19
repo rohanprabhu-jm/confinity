@@ -1,4 +1,4 @@
-package com.rohanprabhu.confinity.machine
+package money.jupiter.confinity.machine
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.node.JsonNodeFactory

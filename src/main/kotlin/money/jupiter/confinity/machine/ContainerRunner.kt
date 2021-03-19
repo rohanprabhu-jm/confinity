@@ -1,4 +1,4 @@
-package com.rohanprabhu.confinity.machine
+package money.jupiter.confinity.machine
 
 class ContainerRunner(
     private val dockerOps: DockerOps

@@ -1,4 +1,4 @@
-package com.rohanprabhu.confinity.models
+package money.jupiter.confinity.models
 
 import java.io.Serializable
 

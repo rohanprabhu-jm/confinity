@@ -1,4 +1,4 @@
-package com.rohanprabhu.confinity;
+package money.jupiter.confinity;
 
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;

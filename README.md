@@ -150,3 +150,7 @@ If you got this far and still have this question, you probably have worse things
 
 ### I need my invocation class to accept other classpath dependencies without enumerating the dependency tree
 Write your own runtime containerization and invocation isolation library.
+
+## Author
+
+Rohan Prabhu <rohan.prabhu@jupiter.money>
