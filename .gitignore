@@ -1,0 +1,63 @@
+HELP.md
+.gradle
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+local.properties
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Any config-overridable files
+**/config/application*.yml
+
+### OS specific
+*.DS_Store
+**/*.DS_Store
+.gradletasknamecache
+
+### Node ###
+**/node_modules
+
+*.sbt
+*.openapi-generator-ignore
+*.openapi-generator/
+*.travis.yml
+*.DS_Store
+services/consent-management/consent-management-spi/README.md
+services/consent-management/consent-management-spi/api
+services/consent-management/consent-management-spi/git_push.sh
+services/consent-management/consent-management-spi/gradle.properties
+services/consent-management/consent-management-spi/gradle/*
+services/consent-management/consent-management-spi/gradlew
+services/consent-management/consent-management-spi/gradlew.bat
+services/consent-management/consent-management-spi/pom.xml
+services/consent-management/consent-management-spi/src/main/AndroidManifest.xml
+services/consent-management/consent-management-spi/.gitignore
+
+/services/pay/config/selfsigned.jks
