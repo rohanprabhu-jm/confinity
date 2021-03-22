@@ -140,6 +140,9 @@ If 600ms bothers you, you are not ready for peak containerization™
 ### Does confinity plan to support remote docker daemons?
 No. We think that would be a bad idea.
 
+### Will this run inside a kubernetes cluster?
+lol, ok
+
 ### What are the future plans for confinity?
 Definitely incorporating AI and ML - however we are currently trying to figure out the problems that it will solve.
 
